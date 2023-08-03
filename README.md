@@ -22,4 +22,5 @@ Delve into the rich history of Tour de France with remarkable insights:
 
 Join me on this cycling odyssey as we relive the triumphs, challenges, and exhilarating moments of Tour de France! 🚴🏁
 
-📄 Power BI Project: Explore Here [Insert Link]
+📄 Power BI Project: Explore Here 
+https://app.powerbi.com/links/reOqJkzrY8?ctid=f057284d-5d7d-4b6f-b94c-707b3dd79c3d&pbi_source=linkShare
